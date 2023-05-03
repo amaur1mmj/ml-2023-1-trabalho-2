@@ -1,0 +1,16 @@
+
+da collum (8 a 111) 
+39732
+39732
+
+da collum (0 a 8)
+35070
+35070
+
+da coluna 0 até a 59 
+71697 representa ≃ 95% do dataset
+
+da coluna 60 até 111
+2969 valores não vazio
+
+logo, existem 51 colunas que podem ser desprezadas pela minha analise de merda
