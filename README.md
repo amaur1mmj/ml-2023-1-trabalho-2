@@ -1,6 +1,6 @@
 # Trabalho prático 2
 
-* Nome do Aluno: ________
+* Nome do Aluno: Amauri Melo 
 * Número de Matrícula: ________
 * Disciplina: Aprendizado de Máquina
 * Semestre: 2023/1
